@@ -1,4 +1,6 @@
-### Informations
+# Icyne
+## Informations
+### About Me
 ________________________________________________________________________________________________________
 - Programming Student
 - Learning Python, JavaScript, Html, C++
